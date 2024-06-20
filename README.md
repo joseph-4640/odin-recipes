@@ -1,1 +1,2 @@
-# odin-recipes
+This projects involves building a basic website for odin recipes. The odin recipes has three main recipes, Russel fish recipe, Fish fillet recipe and Turkish fish recipe. The recipe has the description and the various step for preparing each meal.
+The project employs basic web application procedures such as absolute and relative links, working with images using html, formatting texts, working with command lines and using elements and tags in html.
